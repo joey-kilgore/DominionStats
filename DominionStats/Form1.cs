@@ -19,7 +19,8 @@ namespace DominionStats
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            //stuffity stuff
+            //stuffity not stuff
         }
 
         private void chart1_Click(object sender, EventArgs e)
